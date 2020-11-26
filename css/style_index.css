@@ -1,0 +1,126 @@
+.pdiv {
+    background-color: orange;
+    height: 1000px;
+    width: 1000px;
+    margin: auto;
+}
+
+* {
+    margin: 0px;
+}
+
+#sdom {
+    background-color: darkblue;
+    width: inherit;
+    height: 50px;
+}
+
+#sd {
+    margin-top: 10px;
+    float: left;
+    font-size: 30;
+    font-family: monospace;
+    font-weight: bold;
+    margin-left: 330px;
+    color: antiquewhite;
+}
+
+#services {
+    width: inherit;
+    height: 50px;
+    background-color: black;
+    margin-top: 0px;
+    border: 2px black solid;
+}
+
+#services ol {
+    list-style: none;
+    margin-left: 30px;
+}
+
+#services li {
+    font-family: monospace;
+    font-size: 20px;
+    float: left;
+    color: antiquewhite;
+    padding: 5px 10px 5px 10px;
+    margin-left: 30px;
+    margin-top: 7px;
+    border: 2px white solid;
+    border-radius: 7px;
+
+}
+
+#services li:hover {
+    cursor: pointer;
+    color: antiquewhite;
+    background-color: darkblue;
+    border: 2px blue solid;
+    transform: translate(3px, 3px);
+}
+
+#img {
+    background-image: url(../Pics/domlogo1.png);
+    width: 1000px;
+    height: 221px;
+    /*    border: 1px black solid;*/
+}
+
+#txt {
+    /*    border: 2px black solid;*/
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: bold;
+    width: inherit;
+    height: 50px;
+    text-align: center;
+    color: antiquewhite;
+    background-color: darkblue;
+}
+
+.tdiv {
+    width: inherit;
+    height: 250px;
+    /*    background-image: url(../Pics/cool-background.png);*/
+    background-color: darkblue;
+    text-align: center;
+}
+
+#c1 {
+    background-color: orange;
+    border: 1px black solid;
+    width: 250px;
+    height: 220px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+#me {
+    width: inherit;
+    height: 50px;
+    font-family: monospace;
+    font-size: 35px;
+    font-weight: bold;
+    background-color: darkblue;
+    color: antiquewhite;
+    text-align: center;
+    margin-top: 15px;
+    border: 2px black solid;
+}
+
+#info {
+    width: inherit;
+    height: 370px;
+    border: 2px black solid;
+    margin-top: 10px;
+    text-align: center;
+    background-color: darkblue;
+}
+
+.m {
+
+    display: inline-block;
+    margin-top: 0px;
+    /*    border: 2px black solid;*/
+
+}

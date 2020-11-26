@@ -1,0 +1,77 @@
+#pdiv {
+    width: 100%;
+    height: 1000px;
+    border: 0px black solid;
+}
+
+#txt1 {
+    font-size: 35px;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    color: dimgrey;
+    font-weight: normal;
+    height: 40px;
+    border: 0px black solid;
+}
+
+#txt2 {
+    text-align: center;
+    font-family: sans-serif;
+    color: dimgrey;
+    height: 90px;
+    border: 0px black solid;
+}
+
+#ptbl {
+    width: inherit;
+    height: 370px;
+    border: 0px black solid;
+    text-align: center;
+}
+
+.tbl {
+    display: inline-block;
+    height: 320px;
+    width: 300px;
+    background-color: white;
+    border: 0px black solid;
+    margin-top: 20px;
+}
+
+#pbel {
+    border: 0px black solid;
+    height: 400px;
+    background-color: black;
+    width: inherit;
+    text-align: inherit;
+}
+
+.txtbel {
+    border: 0px blue solid;
+    width: inherit;
+    height: 350px;
+    color: white;
+    font-family: sans-serif;
+    display: inline-block;
+}
+
+/*
+#mtxt {
+    display: inline-block;
+    border: 1px blue solid;
+    width: 28%;
+    height: 350px;
+    color: white;
+    font-family: sans-serif;
+}
+
+#sm {
+    display: inline-block;
+    border: 1px blue solid;
+    width: 28%;
+    height: 350px;
+    color: white;
+    font-family: sans-serif;
+}
+*/
